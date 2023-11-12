@@ -1,0 +1,1 @@
+print('Встроенные классы DOM JavaScript')
